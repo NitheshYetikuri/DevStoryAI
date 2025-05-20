@@ -1,2 +1,0 @@
-# DevStoryAI
-DevStoryAI
